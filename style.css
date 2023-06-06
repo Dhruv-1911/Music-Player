@@ -1,0 +1,25 @@
+body{
+    background-color: #2B3A55;
+    color: white;
+}
+.btn{
+    background-color: transparent;
+    border: none;
+    color: #E8C4C4;
+    cursor: pointer;
+    font-size: 30px;
+}
+.btn:hover{
+    color: #CE7777;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.playing{
+    text-align: center;
+    transform: translateY(440px);
+    font-size: 20px;
+}
